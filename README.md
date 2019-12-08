@@ -2,6 +2,11 @@
 A tool for maintaining an overview of the environmental impact by Physics student union at Chalmers TH.
 
 ## Implementation plan
+Easy:
+    Google sheet with links to google docs
+
+Ambitious:
+    Seemless integration on ftek with javascript or similar with documentation in latex. Contribution either by email or merge requests on github or similar.
 
 ## Wishlist
  - List with possible areas of improvement
